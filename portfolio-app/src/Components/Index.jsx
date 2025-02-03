@@ -1,7 +1,7 @@
 import React from "react";
 import "./styles/Home.css";
 
-const Home = () => {
+const Index = () => {
   return (
     <section className="home-container">
       <div className="content">
@@ -19,4 +19,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Index;
